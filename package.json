@@ -1,0 +1,39 @@
+{
+  "name": "tview",
+  "version": "0.0.0",
+  "description": "Open image inside the terminal!",
+  "main": "lib/tview.js",
+  "engines": {
+    "node": ">=4.5.0"
+  },
+  "bin": {
+    "tview": "./bin/tview"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "terminal-kit": "^1.7.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/tview.git"
+  },
+  "keywords": [
+    "image",
+    "viewer",
+    "ansi",
+    "terminal"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/tview/issues"
+  },
+  "copyright": {
+    "title": "T-View",
+    "years": [
+      2017
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}

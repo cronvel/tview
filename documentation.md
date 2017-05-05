@@ -11,4 +11,7 @@ Examples:
 * `tview -m https://upload.wikimedia.org/wikipedia/commons/1/1e/Stonehenge.jpg`
 * `tview -m -s 3 https://upload.wikimedia.org/wikipedia/commons/1/1e/Stonehenge.jpg`
 
+If your terminal supports true colors, this would produces something like this:
+
+![Example](example1.jpg)
 

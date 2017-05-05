@@ -1,6 +1,6 @@
 {
   "name": "tview",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Open image inside the terminal!",
   "main": "lib/tview.js",
   "engines": {

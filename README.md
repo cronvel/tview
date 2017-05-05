@@ -4,9 +4,11 @@
 
 Proudly powered by [Terminal-kit](https://www.npmjs.com/package/terminal-kit).
 
-Example:
+Examples:
 
-
-It produces:
+* `tview some-image.jpg`
+* `tview https://upload.wikimedia.org/wikipedia/commons/1/1e/Stonehenge.jpg`
+* `tview -m https://upload.wikimedia.org/wikipedia/commons/1/1e/Stonehenge.jpg`
+* `tview -m -s 3 https://upload.wikimedia.org/wikipedia/commons/1/1e/Stonehenge.jpg`
 
 

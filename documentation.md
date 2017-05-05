@@ -7,10 +7,12 @@ Proudly powered by [Terminal-kit](https://www.npmjs.com/package/terminal-kit).
 
 
 Usage is: `./tview <file-path | web URL> [<max-scale>] [option1] [option2] [...]`
+
 Options:
-	--move , -m    interactively move the image
-	--scale , -s   the image scale relative to the terminal width (e.g. '1' scale to the terminal width)
-	--help , -h    display this help
+
+* --move , -m    interactively move the image
+* --scale , -s   the image scale relative to the terminal width (e.g. '1' scale to the terminal width)
+* --help , -h    display this help
 
 
 Examples:
@@ -27,5 +29,5 @@ If your terminal supports true colors, this would produce something like this:
 If your terminal doesn't support true colors, the closest color in the available palette is used.
 Example with a 256 colors terminal:
 
-![256 colors example](example2.jpg)
+![256 colors example](example2.png)
 

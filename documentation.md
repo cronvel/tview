@@ -3,17 +3,18 @@
 # T-View: Open image inside the terminal!
 
 T-View is an image viewer, that can load local files as well as web URL.
-Proudly powered by [Terminal-kit](https://www.npmjs.com/package/terminal-kit).
 
+It is proudly powered by [Terminal-kit](https://www.npmjs.com/package/terminal-kit).
 
-Usage is: `./tview <file-path | web URL> [<max-scale>] [option1] [option2] [...]`
+Install it globally: `npm install -g tview`.
+
+Then, usage is: `tview <file-path | web URL> [option1] [option2] [...]`
 
 Options:
 
-* --move , -m    interactively move the image
-* --scale , -s   the image scale relative to the terminal width (e.g. '1' scale to the terminal width)
-* --help , -h    display this help
-
+* --move , -m : interactively move the image around
+* --scale , -s : scale relative to the terminal size (e.g.: '1' fits the terminal)
+* --help , -h : display the help
 
 Examples:
 

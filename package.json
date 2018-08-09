@@ -1,6 +1,6 @@
 {
   "name": "tview",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Open images inside the terminal!",
   "main": "lib/tview.js",
   "engines": {
@@ -10,9 +10,10 @@
     "tview": "./bin/tview"
   },
   "dependencies": {
-    "minimist": "^1.2.0",
-    "nextgen-events": "^0.9.9",
-    "terminal-kit": "^1.7.2"
+    "get-pixels": "^3.3.2",
+    "nextgen-events": "^1.1.0",
+    "terminal-kit": "^1.26.1",
+    "utterminal": "^0.2.1"
   },
   "devDependencies": {},
   "repository": {
@@ -33,7 +34,8 @@
   "copyright": {
     "title": "T-View",
     "years": [
-      2017
+      2017,
+      2018
     ],
     "owner": "Cédric Ronvel"
   }

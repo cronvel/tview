@@ -1,6 +1,6 @@
 {
   "name": "tview",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Open images inside the terminal!",
   "main": "lib/tview.js",
   "engines": {
@@ -13,7 +13,7 @@
     "get-pixels": "^3.3.2",
     "nextgen-events": "^1.1.0",
     "terminal-kit": "^1.26.1",
-    "utterminal": "^0.4.0"
+    "utterminal": "^0.4.1"
   },
   "devDependencies": {},
   "repository": {
